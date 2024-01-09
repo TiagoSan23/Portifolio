@@ -76,9 +76,9 @@ function projetos(section) {
           <p>Figma</p>
         </div>
         <div class="card">
-          <h3>Lógica De Programação.</h3>
+          <h3>Aplicativo.</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/uber.gif" alt="Imagem do projeto." />
+            <img src="./assets/images/projects/cadastro.gif" alt="Imagem do projeto." />
             <div class="buttons">
               <a href="#" target="_blank" title="Repositório no Github">
                 <svg
@@ -97,7 +97,7 @@ function projetos(section) {
             
             </div>
           </div>
-          <p>Exercicios de logica de programação ultilizando a linguagem Java Script/TypeScript.</p>
+          <p>Aplicativo gerenciador de cadastro de clientes.</p>
           <p>HTML - CSS - JS</p>
         </div>
         
