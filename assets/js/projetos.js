@@ -78,7 +78,7 @@ function projetos(section) {
         <div class="card">
           <h3>Aplicativo.</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/cadastro.gif" alt="Imagem do projeto." />
+            <img src="./assets/images/cadastro.gif" alt="Imagem do projeto." />
             <div class="buttons">
               <a href="#" target="_blank" title="Repositório no Github">
                 <svg
